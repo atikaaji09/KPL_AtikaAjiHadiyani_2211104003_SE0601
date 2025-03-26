@@ -1,0 +1,39 @@
+{
+    "members": [
+        {
+            "firstName": "Atika Aji",
+            "lastName": "Hadiyani",
+            "gender": "Female",
+            "age": 20,
+            "nim": "2211104003"
+        },
+        {
+            "firstName": "Kholifah",
+            "lastName": "Dina",
+            "gender": "Female",
+            "age": 21,
+            "nim": "2211104004"
+        },
+        {
+            "firstName": "Afad Fath",
+            "lastName": "Musyarof",
+            "gender": "Male",
+            "age": 21,
+            "nim": "2211104030"
+        },
+        {
+            "firstName": "Rachmat",
+            "lastName": "Taufik",
+            "gender": "Male",
+            "age": 21,
+            "nim": "2211104028"
+        },
+        {
+            "firstName": "Noor Alam",
+            "lastName": "Fauzan",
+            "gender": "Male",
+            "age": 21,
+            "nim": "2211104031"
+        }
+    ]
+}
