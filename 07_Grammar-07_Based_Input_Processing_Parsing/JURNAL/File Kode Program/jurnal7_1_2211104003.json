@@ -1,0 +1,23 @@
+{
+    "firstName": "Atika Aji",
+    "lastName": "Hadiyani",
+    "gender": "female",
+    "age": 20,
+    "address": {
+      "streetAddress": "Jl. Gerilya",
+      "city": "Purwokerto",
+      "state": "Central Java"
+    },
+    "courses": [
+      {
+        "code": "CRI3R5",
+        "name": "Konstruksi Perangkat Lunak"
+      },
+      {
+        "code": "CRI2B8",
+        "name": "Manajemen Konfigurasi dan Evolusi Perangkat Lunak"
+      }
+    ]
+  }
+  
+  
