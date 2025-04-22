@@ -1,0 +1,11 @@
+C:\Users\ASUS\Downloads\folder\tpmodul10_2211104003\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.deps.json
+C:\Users\ASUS\Downloads\folder\tpmodul10_2211104003\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.dll
+C:\Users\ASUS\Downloads\folder\tpmodul10_2211104003\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.pdb
+C:\Users\ASUS\Downloads\folder\tpmodul10_2211104003\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\folder\tpmodul10_2211104003\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\folder\tpmodul10_2211104003\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\folder\tpmodul10_2211104003\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\folder\tpmodul10_2211104003\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.dll
+C:\Users\ASUS\Downloads\folder\tpmodul10_2211104003\AljabarLibraries\obj\Debug\net8.0\refint\AljabarLibraries.dll
+C:\Users\ASUS\Downloads\folder\tpmodul10_2211104003\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.pdb
+C:\Users\ASUS\Downloads\folder\tpmodul10_2211104003\AljabarLibraries\obj\Debug\net8.0\ref\AljabarLibraries.dll
